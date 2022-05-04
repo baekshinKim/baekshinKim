@@ -1,4 +1,8 @@
-### Hi there 👋
+### 김백신 Kim baekshin
+> 현재 개발을 공부하고 있는 예비 개발자입니다.
+
+<br>
+
 
 <!--
 **baekshinKim/baekshinKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhe226&layout=compact)](https://github.com/jhe226/github-readme-stats)
+
